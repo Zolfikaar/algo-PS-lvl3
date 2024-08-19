@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Multiply Two Matrices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A44D4E-DAF8-4CCB-A407-8C2431150090}|Multiply Two Matrices\\Multiply Two Matrices.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Multiply Two Matrices\\Multiply Two Matrices\\Multiply Two Matrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9A44D4E-DAF8-4CCB-A407-8C2431150090}|Multiply Two Matrices\\Multiply Two Matrices.vcxproj|solutionrelative:Multiply Two Matrices\\Multiply Two Matrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#1 3x3 Random Matrix\\3x3 Random Matrix\\3x3 Random Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3x3 Random Matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#1 3x3 Random Matrix\\3x3 Random Matrix\\3x3 Random Matrix.cpp",
+              "RelativeDocumentMoniker": "..\\#1 3x3 Random Matrix\\3x3 Random Matrix\\3x3 Random Matrix.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#1 3x3 Random Matrix\\3x3 Random Matrix\\3x3 Random Matrix.cpp",
+              "RelativeToolTip": "..\\#1 3x3 Random Matrix\\3x3 Random Matrix\\3x3 Random Matrix.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T07:41:03.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Multiply Two Matrices.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Multiply Two Matrices\\Multiply Two Matrices\\Multiply Two Matrices.cpp",
+              "RelativeDocumentMoniker": "Multiply Two Matrices\\Multiply Two Matrices.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Multiply Two Matrices\\Multiply Two Matrices\\Multiply Two Matrices.cpp",
+              "RelativeToolTip": "Multiply Two Matrices\\Multiply Two Matrices.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T07:04:30.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
