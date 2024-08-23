@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Check Identity Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D216E7-AB91-4754-8326-3226DAAEB245}|Check Identity Matrix\\Check Identity Matrix.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Check Identity Matrix\\Check Identity Matrix\\Check Identity Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62D216E7-AB91-4754-8326-3226DAAEB245}|Check Identity Matrix\\Check Identity Matrix.vcxproj|solutionrelative:Check Identity Matrix\\Check Identity Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Check Identity Matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Check Identity Matrix\\Check Identity Matrix\\Check Identity Matrix.cpp",
+              "RelativeDocumentMoniker": "Check Identity Matrix\\Check Identity Matrix.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\Check Identity Matrix\\Check Identity Matrix\\Check Identity Matrix.cpp",
+              "RelativeToolTip": "Check Identity Matrix\\Check Identity Matrix.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T17:31:00.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
