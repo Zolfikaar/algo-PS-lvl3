@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#17 Number Exist in Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366B4CC8-7C4F-47EA-9408-CA963E4C5E9A}|#17 Number Exist in Matrix\\#17 Number Exist in Matrix.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#17 Number Exist in Matrix\\#17 Number Exist in Matrix\\#17 Number Exist in Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{366B4CC8-7C4F-47EA-9408-CA963E4C5E9A}|#17 Number Exist in Matrix\\#17 Number Exist in Matrix.vcxproj|solutionrelative:#17 Number Exist in Matrix\\#17 Number Exist in Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#17 Number Exist in Matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#17 Number Exist in Matrix\\#17 Number Exist in Matrix\\#17 Number Exist in Matrix.cpp",
+              "RelativeDocumentMoniker": "#17 Number Exist in Matrix\\#17 Number Exist in Matrix.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#17 Number Exist in Matrix\\#17 Number Exist in Matrix\\#17 Number Exist in Matrix.cpp",
+              "RelativeToolTip": "#17 Number Exist in Matrix\\#17 Number Exist in Matrix.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T22:50:10.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
