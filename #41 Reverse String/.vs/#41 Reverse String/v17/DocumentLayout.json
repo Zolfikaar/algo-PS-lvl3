@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#41 Reverse String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0960BEAC-178F-46CA-9736-30C36A961518}|#41 Reverse String\\#41 Reverse String.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#41 Reverse String\\#41 Reverse String\\#41 Reverse String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0960BEAC-178F-46CA-9736-30C36A961518}|#41 Reverse String\\#41 Reverse String.vcxproj|solutionrelative:#41 Reverse String\\#41 Reverse String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#41 Reverse String.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#41 Reverse String\\#41 Reverse String\\#41 Reverse String.cpp",
+              "RelativeDocumentMoniker": "#41 Reverse String\\#41 Reverse String.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#41 Reverse String\\#41 Reverse String\\#41 Reverse String.cpp",
+              "RelativeToolTip": "#41 Reverse String\\#41 Reverse String.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T17:29:53.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
