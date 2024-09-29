@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#42 Replace Word\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E921D4A6-E154-49D6-A55F-C9770775B458}|#42 Replace Word\\#42 Replace Word.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#42 Replace Word\\#42 Replace Word\\#42 Replace Word.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E921D4A6-E154-49D6-A55F-C9770775B458}|#42 Replace Word\\#42 Replace Word.vcxproj|solutionrelative:#42 Replace Word\\#42 Replace Word.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#42 Replace Word.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#42 Replace Word\\#42 Replace Word\\#42 Replace Word.cpp",
+              "RelativeDocumentMoniker": "#42 Replace Word\\#42 Replace Word.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#42 Replace Word\\#42 Replace Word\\#42 Replace Word.cpp",
+              "RelativeToolTip": "#42 Replace Word\\#42 Replace Word.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T21:12:17.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
