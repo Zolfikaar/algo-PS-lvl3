@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#43 Replace Word in String (with match case)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1A96C7-21D7-4F22-A7EB-A733B00F7F8F}|#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E1A96C7-21D7-4F22-A7EB-A733B00F7F8F}|#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).vcxproj|solutionrelative:#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#43 Replace Word in String (with match case).cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).cpp",
+              "RelativeDocumentMoniker": "#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).cpp",
+              "RelativeToolTip": "#43 Replace Word in String (with match case)\\#43 Replace Word in String (with match case).cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T01:26:59.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
