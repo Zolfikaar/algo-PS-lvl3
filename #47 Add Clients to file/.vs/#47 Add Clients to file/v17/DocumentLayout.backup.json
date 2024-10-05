@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#47 Add Clients to file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843523BF-4FE2-446E-8CF8-8B4C7EF6F4C5}|#47 Add Clients to file\\#47 Add Clients to file.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#47 Add Clients to file\\#47 Add Clients to file\\#47 Add Clients to file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{843523BF-4FE2-446E-8CF8-8B4C7EF6F4C5}|#47 Add Clients to file\\#47 Add Clients to file.vcxproj|solutionrelative:#47 Add Clients to file\\#47 Add Clients to file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#47 Add Clients to file.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#47 Add Clients to file\\#47 Add Clients to file\\#47 Add Clients to file.cpp",
+              "RelativeDocumentMoniker": "#47 Add Clients to file\\#47 Add Clients to file.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\07 - Algorithms \u0026 Problem Solving Level 3\\#47 Add Clients to file\\#47 Add Clients to file\\#47 Add Clients to file.cpp",
+              "RelativeToolTip": "#47 Add Clients to file\\#47 Add Clients to file.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T18:17:59.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
